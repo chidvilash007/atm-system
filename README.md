@@ -1,0 +1,2 @@
+# smartshop
+web technologies 
